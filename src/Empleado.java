@@ -1,5 +1,5 @@
-//Clase adstracta Empleado con los atributos nombre, salario y departamento
-public abstract class Empleado {
+//Clase Empleado con los atributos nombre, salario y departamento
+public class Empleado {
     private String nombre;
     private int salario;
     private String departamento;
